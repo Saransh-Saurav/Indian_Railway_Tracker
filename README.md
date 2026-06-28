@@ -2,8 +2,8 @@
 
 A Python/Flask web app to track Indian Railways in real-time.
 
-🔗 **Live Demo:** railway-pnr-checker.up.railway.app/
-
+🔗 **Live Demo:** [railway-pnr-checker.up.railway.app/
+](https://railway-pnr-checker.up.railway.app/)
 ---
 
 ## Features
